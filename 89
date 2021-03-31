@@ -1,0 +1,8 @@
+10.times 
+  puts "Hi! Welcome to my very repetitive program"
+end
+
+brothers = ["Tim", "Tom", "Jim"]
+brothers.each do |hippo|
+  puts "Stop hitting yourself #{hippo}!"
+end
